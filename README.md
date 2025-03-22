@@ -32,11 +32,13 @@
 
 ![image](https://github.com/user-attachments/assets/15b8fed8-1865-40b6-8870-07fb28e612d0)
 
-- get/links/search поиск сокращенной ссылки по оригинальной
+- get/links/search -- поиск сокращенной ссылки по оригинальной
+- 
 ![image](https://github.com/user-attachments/assets/1d2cc09b-7cdc-43df-b96d-558b5e2de0f4)
 
-- get/links/show_expired_url Просмотр "просроченных" ссылок
-- ![image](https://github.com/user-attachments/assets/f0bad6d8-f11c-42ae-8538-b522e5fa0437)
+- get/links/show_expired_url -- просмотр "просроченных" ссылок
+- 
+ ![image](https://github.com/user-attachments/assets/f0bad6d8-f11c-42ae-8538-b522e5fa0437)
 
 - delete/links/{short_code} -- удаление связи по сокращенной ссылке
 
