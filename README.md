@@ -9,11 +9,31 @@
   "your_url": "https://translated.turbopages.org/proxy_u/en-ru.ru.92363b6c-67dd5e3e-c547f50b-74722d776562/https/stackoverflow.com/questions/17492550/can-i-run-multiple-sections-of-sql-in-one-statement",
   "expires_at": "2025-04-22T19:26:15.648"
 }
+![image](https://github.com/user-attachments/assets/771285dd-e300-425e-b177-f10aae980680)
 
-- get/links/ -- получение оригинальной ссылки по сокращенной  
+![image](https://github.com/user-attachments/assets/52620142-2573-48db-950f-e07d37e3a2c7)
 
+- get/links/{short_code} -- получение оригинальной ссылки по сокращенной ссылке
 
+-![image](https://github.com/user-attachments/assets/4d900c1a-1712-4510-adc2-8af8ccc3958c)
 
+- put/links/{url} -- обновление сокращенной ссылки по оригинальной ссылке
+  
+![image](https://github.com/user-attachments/assets/0204e8b5-6cea-47c3-a0db-742699aae985)
+
+- get/links/stats -- статистика по ссылке
+
+![image](https://github.com/user-attachments/assets/15b8fed8-1865-40b6-8870-07fb28e612d0)
+
+- get/links/search поиск сокращенной ссылки по оригинальной
+![image](https://github.com/user-attachments/assets/1d2cc09b-7cdc-43df-b96d-558b5e2de0f4)
+
+- get/links/show_expired_url Просмотр "просроченных" ссылок
+- ![image](https://github.com/user-attachments/assets/f0bad6d8-f11c-42ae-8538-b522e5fa0437)
+
+- delete/links/{short_code} -- удаление связи по сокращенной ссылке
+
+ ![image](https://github.com/user-attachments/assets/1fc7067c-0fab-470e-bfaa-8fed695861d9)
 
 
 
