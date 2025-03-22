@@ -5,11 +5,18 @@
 - post/links/shorten -- сокращение ссылки, указание кастомной сокращенной ссылки (необязательно) и даты истечения работы ссылки (необязательно). Заглушка: вместо кастомного алиаса можно передавать кастомную сокращенную ссылкы, так как для применения алиаса на сайтах надо платить.
 
 Запрос: 
+
 {
+
   "your_url": "https://translated.turbopages.org/proxy_u/en-ru.ru.92363b6c-67dd5e3e-c547f50b-74722d776562/https/stackoverflow.com/questions/17492550/can-i-run-multiple-sections-of-sql-in-one-statement",
+  
   "expires_at": "2025-04-22T19:26:15.648"
+  
 }
+
 ![image](https://github.com/user-attachments/assets/771285dd-e300-425e-b177-f10aae980680)
+
+Ответ: 
 
 ![image](https://github.com/user-attachments/assets/52620142-2573-48db-950f-e07d37e3a2c7)
 
