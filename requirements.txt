@@ -1,0 +1,17 @@
+uvicorn~=0.34.0
+pandas~=2.2.3
+pyshorteners~=1.0.1
+fastapi~=0.115.11
+pydantic~=2.10.6
+alembic~=1.15.1
+psycopg2-binary
+python-dotenv~=1.0.1
+sqlalchemy~=2.0.39
+starlette~=0.46.1
+fastapi-cache2[redis]
+redis~=5.2.1
+apscheduler
+fastapi-users[sqlalchemy]
+gunicorn
+asyncpg
+setuptools
