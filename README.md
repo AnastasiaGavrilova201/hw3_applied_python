@@ -52,6 +52,18 @@ docker build . -t fastapi_app:latest
 
 если не запустится в докере, то uvicorn main:app точно работает, не ругайте
 
+в .env необходимо прописать значения для подключения к бд:
+
+DB_USER=
+
+DB_PASS=
+
+DB_HOST=
+
+DB_PORT=
+
+DB_NAME=
+
 # Описание БД (при наличии)
 
 Таблица user 
