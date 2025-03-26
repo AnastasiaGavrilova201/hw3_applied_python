@@ -66,6 +66,13 @@ DB_NAME=
 
 Для запуска тестов введите pytest. % покрытия в ./htmlcov/index.html
 
+![image](https://github.com/user-attachments/assets/3e5aac3e-70fb-4c14-80d4-ed179588f7be)
+
+![image](https://github.com/user-attachments/assets/7a744c21-bedc-477f-8d6b-690f68772e7e)
+
+![image](https://github.com/user-attachments/assets/785145fe-45c5-43b8-8569-8e9ca2d762b2)
+
+
 # Описание БД (при наличии)
 
 Таблица user 
